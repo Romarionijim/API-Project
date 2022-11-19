@@ -8,4 +8,4 @@ Second test was done on a Hotel App project using spring boot and swagger (100% 
 
 The tests were done using TestNG testing framework
 
-The testing were written using the bdd behavior driven development.
+The tests were written using the bdd behavior driven development.
