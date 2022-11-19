@@ -1,6 +1,6 @@
 # API-Project
 
-purpose is to send different API requests to the server to test and assert the response.
+The purpose of this project is to perform API tests on an a 100% api apps that do not have a UI in order to send different API requests to the server to test and valdiate the response.
 
 The first API test was done on ynet website with some selenium integration and https://yesno.wtf/api website without a UI interface.
 
